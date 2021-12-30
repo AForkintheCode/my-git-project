@@ -1,7 +1,4 @@
 print ("Hello World")
-<<<<<<< HEAD
-This is changed changed one!!! It is much better now
-=======
 This is changed changed one!!!
 running this git again
->>>>>>> 9619fef00c88dcf81291b5a83eec0700c286fbdd
+
